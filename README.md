@@ -3,9 +3,9 @@
 ### Made using inkscape
 
 ## To-Do List
-- Camaro
-- Bugatti La Voiture Noire
-- Morris Oxford/HM Ambassador
-- Dodge Challenger Demon
-- DC Tarzan Car
-- Rolls Royce Silver Ghost
+[x] Camaro
+[] Bugatti La Voiture Noire
+[] Morris Oxford/HM Ambassador
+[x] Dodge Challenger Demon
+[] DC Tarzan Car
+[x] Rolls Royce Silver Ghost
